@@ -8,3 +8,6 @@ distribution
 *.jar
 *.war
 *.ear
+
+# macOS security breach vulnerability files #
+*.DS_Store
